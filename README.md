@@ -3,4 +3,4 @@
 
 - this is also part of a larger, personal project I am working on which aims to wrap a lot of the core audio functionality into a simpler and more intuitive package...
 
-open to changes, suggestions and use cases in the discussions section :)
+open to changes, suggestions and use cases in the discussions section :) - if anything i would love your input!
